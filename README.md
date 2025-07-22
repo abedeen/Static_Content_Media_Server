@@ -1,7 +1,3 @@
-The previous output was already in Markdown format. There's no need to convert it again. I've simply repeated the Markdown output for you:
-
------
-
 # Static Content Media Server 🚀
 
 This project provides a simple and efficient way to serve static media content, primarily videos, using **Nginx** within a **Docker** container. It's designed for easily streaming pre-loaded video files.
